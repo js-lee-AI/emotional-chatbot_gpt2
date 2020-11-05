@@ -40,7 +40,7 @@ My dataset is a .txt file (760 KB) of conversation between a bot and a user (my 
 
 example is below
 
-![2](./img/data.png)
+![2](./img/data.png =100x20)
 
 ## Author
 Jungseob Lee / [ js-lee-AI](https://github.com/js-lee-AI) / omanma1928@naver.com
