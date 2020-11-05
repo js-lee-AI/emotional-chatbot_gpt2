@@ -12,13 +12,13 @@ parser = argparse.ArgumentParser(description='GPT-2 chatbot')
 parser.add_argument('--nsamples', type=int, default=1,
                     help='set number of bot outputs')
 
-parser.add_argument('--top_k', type=int, default=40,
+parser.add_argument('--top_k', type=int, default=5,
                     help='set limited to only number of k words in order of highest probability')
 
 parser.add_argument('--top_p', type=int, default=1,
                     help='set sum probability p that only words exceeding p are put in the candidate')
 
-parser.add_argument('--temperature', type=float, default=0.7,
+parser.add_argument('--temperature', type=float, default=0.6,
                     help='write flexibly if the temperature is high, and write statically if the temperature is low (0.0 ~ 1.0)')
 
 parser.add_argument('--batch_size', type=int, default=1,
