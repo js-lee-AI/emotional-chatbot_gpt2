@@ -8,7 +8,7 @@ It is never designed for commercial purposes.
 ![1](./img/result.PNG)
 
 
-## Install python libarary:
+## Install python library:
 This project can be used regardless of **_tensorflow 1.x_** and **_tensorflow 2.x_**.
 ```
 pip install tensorflow
