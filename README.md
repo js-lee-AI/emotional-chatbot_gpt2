@@ -37,6 +37,7 @@ python main.py --top_k 20 --temperature 0.9 --nsamples 3
 My dataset is a .txt file (760 KB) of conversation between a bot and a user (my own file).
 
 example is below
+
 ![2](./img/data.png)
 
 ## Author
