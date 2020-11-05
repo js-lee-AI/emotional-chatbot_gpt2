@@ -7,6 +7,7 @@ It is never designed for commercial purposes.
 ## Result
 ![1](./img/result.PNG)
 
+<img src="./img/result2.PNG" width="40%">
 
 ## Install python library:
 This project can be used regardless of **_tensorflow 1.x_** and **_tensorflow 2.x_**.
@@ -39,6 +40,7 @@ python main.py --top_k 20 --temperature 0.9 --nsamples 3
 My dataset is a .txt file (760 KB) of conversation between a bot and a user (my own file).
 
 example is below
+
 <img src="./img/data.png" width="40%">
 
 
