@@ -1,7 +1,8 @@
 # unsupervised-chatbot-GPT2
 fine-tuning GPT-2 and Implement text generation chatbot
-This project aims to develop emorable and emotional chatbot using transfer learning (fine tune GPT-2 345M). You can find original code [here](https://github.com/openai/gpt-2).
+This project aims to develop meorable and emotional chatbot using transfer learning (fine tune GPT-2 345M). You can find original code [here](https://github.com/openai/gpt-2).
 
+It is never designed for commercial purposes.
 
 ## Result
 ![1](./img/result.PNG)
@@ -27,12 +28,16 @@ just run _main.py_
 or
 
 if you want to use your command line
-
-'''
+```
 python main.py
 python main.py --top_k 20 --temperature 0.9 --nsamples 3
-'''
+```
 
+## My dataset
+My dataset is a .txt file (760 KB) of conversation between a bot and a user (my own file).
+
+example is below
+![2](./img/data.png)
 
 ## Author
 Jungseob Lee / [ js-lee-AI](https://github.com/js-lee-AI) / omanma1928@naver.com
