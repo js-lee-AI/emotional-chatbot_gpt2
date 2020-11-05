@@ -40,10 +40,10 @@ My dataset is a .txt file (760 KB) of conversation between a bot and a user (my 
 
 example is below
 
-![2](./img/data.png){ width: 200px; }
+![2](./img/data.png)
 
 ## Author
-Jungseob Lee / [ js-lee-AI](https://github.com/js-lee-AI) / omanma1928@naver.com
+Jungseob Lee / [ js-lee-AI](https://github.com/js-lee-AI = 200x200) / omanma1928@naver.com
 
 ## Related papers
 A Radford, et al., ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), openAI blog, 2019.
