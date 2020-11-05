@@ -21,10 +21,10 @@ pip install -r requirements.txt
 
 ## Model install
 1) clik the [link](https://drive.google.com/file/d/1CzCNAuaXiaQsdCMTiki2X9XuyCwowQY3/view?usp=sharing) and download.
-2) Place the downloaded model in models\345M_org.
+2) Place the downloaded model in ***models\345M_org.***
 
 ## Usage
-just run _main.py_ 
+just run **_main.py_** 
 
 or
 
