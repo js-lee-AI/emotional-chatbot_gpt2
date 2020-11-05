@@ -1,20 +1,17 @@
+# unsupervised-chatbot-GPT2
+fine-tuning GPT-2 and Implement text generation chatbot
+
 ## Result
 ![1](./img/result.PNG)
 
 
-#### merging TensorFlow 2 version and 1 version, so I will upload it in a few days.
+## Lib install
 
-
-
-
-
-
-# unsupervised-chatbot-GPT2
-fine-tuning GPT-2 and Implement text generation chatbot
-
-## model install
+## Model install
 clik the ling and download this folder
 
-
 ## Usage
+
+## Refrences
+
 
