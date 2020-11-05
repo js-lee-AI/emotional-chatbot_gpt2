@@ -49,6 +49,7 @@ Jungseob Lee / [ js-lee-AI](https://github.com/js-lee-AI) / omanma1928@naver.com
 
 ## Related papers
 A Radford, et al., ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), openAI blog, 2019.
+
 A Vaswani, et al., ["Attention is All you Need"](https://arxiv.org/pdf/1706.03762.pdf), NIPS 2017
 
 ## Refrences
