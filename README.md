@@ -7,7 +7,7 @@ It is never designed for commercial purposes.
 ## Result
 ![1](./img/result.PNG)
 
-<img src="./img/result2.PNG" width="40%">
+<img src="./img/result2.PNG" width="80%">
 
 ## Install python library:
 This project can be used regardless of **_tensorflow 1.x_** and **_tensorflow 2.x_**.
@@ -33,7 +33,7 @@ if you want to use your command line
 python main.py
 ```
 ```
-python main.py --top_k 20 --temperature 0.9 --nsamples 3
+python main.py --top_k 10 --temperature 0.9 --nsamples 3
 ```
 
 ## My dataset
