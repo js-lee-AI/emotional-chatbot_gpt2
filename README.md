@@ -30,6 +30,8 @@ or
 if you want to use your command line
 ```
 python main.py
+```
+```
 python main.py --top_k 20 --temperature 0.9 --nsamples 3
 ```
 
