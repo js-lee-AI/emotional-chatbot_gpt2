@@ -12,11 +12,11 @@ It is never designed for commercial purposes.
 ## Install python library:
 This project can be used regardless of **_tensorflow 1.x_** and **_tensorflow 2.x_**.
 ```
-pip install tensorflow
+$ pip install tensorflow
 ```
 
 ```
-pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
 ## Model install
@@ -30,10 +30,12 @@ or
 
 if you want to use your command line
 ```
-python main.py
+$ python main.py
 ```
+
+if you want to set hyperparameters
 ```
-python main.py --top_k 10 --temperature 0.9 --nsamples 3
+$ python main.py --top_k 10 --temperature 0.9 --nsamples 3
 ```
 
 ## My dataset
