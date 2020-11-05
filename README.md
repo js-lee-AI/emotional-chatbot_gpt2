@@ -9,7 +9,7 @@ It is never designed for commercial purposes.
 
 
 ## Install python libarary:
-This project can be used regardless of _tensorflow 1.x_ and _tensorflow 2.x_.
+This project can be used regardless of **_tensorflow 1.x_** and **_tensorflow 2.x_**.
 ```
 pip install tensorflow
 ```
