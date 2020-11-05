@@ -1,3 +1,7 @@
+## Result
+![1](./img/result.PNG)
+
+
 #### merging TensorFlow 2 version and 1 version, so I will upload it in a few days.
 
 
@@ -14,4 +18,3 @@ clik the ling and download this folder
 
 ## Usage
 
-## Result
