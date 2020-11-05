@@ -7,7 +7,7 @@ It is never designed for commercial purposes.
 ## Result
 ![1](./img/result.PNG)
 
-<img src="./img/result2.PNG" width="80%">
+<img src="./img/result2.PNG" width="60%">
 
 ## Install python library:
 This project can be used regardless of **_tensorflow 1.x_** and **_tensorflow 2.x_**.
