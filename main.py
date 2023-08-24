@@ -35,7 +35,8 @@ def main():
         top_p=args.top_p,
         temperature=args.temperature,
         batch_size=args.batch_size,
-        length=args.length)
+        length=args.length
+    )
 
 if __name__ == "__main__":
     main()
